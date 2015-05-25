@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mis_Practicas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="labelIngrese_Pago">Ingrese Pago</string>
+    <string name="txtGrados" />
+    <string name="txt_Cero">0.00</string>
+
+    <string name="labelpropina">Propina</string>
+    <string name="labelTotal">Total</string>
+    <string name="labelcustom">Custom</string>
+
+    <string name="label20">18</string>
+    <string name="txtT1">0.0</string>
+    <string name="txtT2">0.0</string>
+    <string name="P10">10%</string>
+    <string name="P20">15%</string>
+
+    <string name="P15">20%</string>
+
+
+
+</resources>
